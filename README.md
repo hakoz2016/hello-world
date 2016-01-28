@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+=============
+
+Hi Humans!
+
+I'd like to check the jni-hello.
